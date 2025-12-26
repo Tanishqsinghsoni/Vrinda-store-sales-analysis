@@ -54,3 +54,9 @@ The goal is to understand customer behavior, sales trends, and performance acros
 ## 🚀 Learning Outcome
 This project strengthened my understanding of how raw data can be transformed into meaningful business insights using Excel and basic data analysis techniques.
 
+---
+
+## 📦 Dataset Source
+The dataset used in this project is a sample retail sales dataset for learning and practice purposes.
+
+
